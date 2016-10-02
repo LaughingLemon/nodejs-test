@@ -1,0 +1,23 @@
+{
+  "name": "test-awt-lambda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "grunt": "^1.0.1",
+    "grunt-mocha-test": "^0.12.7",
+    "lambda-tester": "^2.6.0",
+    "mocha": "^3.0.2",
+    "proxyquire": "^1.7.10",
+    "sinon": "^1.17.5",
+    "sinon-chai": "^2.8.0"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.6.3",
+    "request": "^2.74.0",
+    "vandium": "^3.1.0"
+  }
+}
